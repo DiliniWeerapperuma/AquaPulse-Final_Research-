@@ -1,0 +1,8 @@
+path: '/content/drive/MyDrive/TrainYOLOv8CustomDataset/data'
+train: images/train
+val: images/val
+
+nc: 1
+
+names:
+  0: Fish 

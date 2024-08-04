@@ -1,0 +1,10 @@
+path: '/content/drive/MyDrive/TrainYOLOv8/data1'
+train: images/train
+val: images/val
+
+nc: 3
+
+names:
+  0: Goldfish
+  1: Guppy
+  2: Angel
